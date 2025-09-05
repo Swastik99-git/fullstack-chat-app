@@ -1,6 +1,42 @@
-Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-🎃 Authentication && Authorization with JWT
-👾 Real-time messaging with Socket.io
-🚀 Online user status
-👌 Global state management with Zustand
-🐞 Error handling both on the server and on the client
+# Fullstack Chat App
+
+A real-time chat application built with **React (frontend)** and **Node.js + Express + Socket.IO (backend)**.  
+It allows users to join chat rooms and exchange messages instantly.
+
+---
+
+---
+
+## ✨ Features
+
+- Real-time messaging using **Socket.IO**
+- Multiple chat rooms support
+- Join/leave notifications
+- Responsive UI for a smooth experience
+- Simple and clean project structure
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Socket.IO client  
+- **Backend:** Node.js, Express, Socket.IO  
+- **Database:** *(Add here if you used MongoDB / PostgreSQL / etc. Otherwise remove)*
+
+---
+
+## ⚙️ Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v14+ recommended)  
+- npm or yarn package manager  
+
+---
+
+## 📦 Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Swastik99-git/fullstack-chat-app.git
+cd fullstack-chat-app
